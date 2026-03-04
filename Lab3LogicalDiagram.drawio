@@ -1,9 +1,388 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.0">
   <diagram name="Page-1" id="L7DuuKiDhLwAfjiwVFyy">
-    <mxGraphModel>
+    <mxGraphModel dx="853" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ACANUbbwVopmbbHR37aV-329" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="CIT Network" vertex="1">
+          <mxGeometry height="106" width="140" x="412.6" as="geometry" />
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-330" parent="1" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#000000;strokeColor=#666666;shape=mxgraph.alibaba_cloud.router;fontColor=#333333;fillStyle=solid;" value="" vertex="1">
+          <mxGeometry height="110" width="105.42" x="412.6000000000001" y="284" as="geometry" />
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-331" parent="1" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#000000;strokeColor=#666666;shape=mxgraph.alibaba_cloud.router;fontColor=#333333;fillStyle=solid;" value="" vertex="1">
+          <mxGeometry height="110" width="105.42" x="506.25" y="474" as="geometry" />
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-332" parent="1" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#000000;strokeColor=#666666;shape=mxgraph.alibaba_cloud.router;fontColor=#333333;fillStyle=solid;" value="" vertex="1">
+          <mxGeometry height="110" width="105.42" x="727.5" y="474" as="geometry" />
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-333" parent="1" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#000000;strokeColor=#666666;shape=mxgraph.alibaba_cloud.router;fontColor=#333333;fillStyle=solid;" value="" vertex="1">
+          <mxGeometry height="110" width="105.42" x="634.79" y="334" as="geometry" />
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-334" parent="1" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#000000;strokeColor=#666666;shape=mxgraph.alibaba_cloud.router;fontColor=#333333;fillStyle=solid;" value="" vertex="1">
+          <mxGeometry height="110" width="105.42" x="240.26999999999998" y="344" as="geometry" />
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-335" parent="1" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#000000;strokeColor=#666666;shape=mxgraph.alibaba_cloud.router;fontColor=#333333;fillStyle=solid;" value="" vertex="1">
+          <mxGeometry height="110" width="105.42" x="138.95999999999992" y="458" as="geometry" />
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-336" parent="1" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#000000;strokeColor=#666666;shape=mxgraph.alibaba_cloud.router;fontColor=#333333;fillStyle=solid;" value="" vertex="1">
+          <mxGeometry height="110" width="105.42" x="65.31000000000002" y="246" as="geometry" />
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-337" parent="1" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l2_switch;fillColor=#FAFAFA;strokeColor=#005073;" value="g" vertex="1">
+          <mxGeometry height="80" width="80" x="637.5" y="624" as="geometry" />
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-338" parent="1" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l2_switch;fillColor=#FAFAFA;strokeColor=#005073;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="77.08999999999999" y="674" as="geometry" />
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-339" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" value="" vertex="1">
+          <mxGeometry height="62" width="67.39" x="741.15" y="14" as="geometry" />
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-340" parent="1" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#000000;strokeColor=#666666;shape=mxgraph.alibaba_cloud.router;fontColor=#333333;fillStyle=solid;" value="" vertex="1">
+          <mxGeometry height="80" width="76.67" x="15.310000000000002" y="136" as="geometry" />
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-341" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" value="Cisco 2911" vertex="1">
+          <mxGeometry height="30" width="107.29" x="637.5000000000001" y="434" as="geometry" />
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-342" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" value="Cisco ISR4331-A" vertex="1">
+          <mxGeometry height="30" width="107.29" x="240.59999999999997" y="444" as="geometry" />
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-343" edge="1" parent="1" source="ACANUbbwVopmbbHR37aV-383" style="edgeStyle=none;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=none;endFill=0;endSize=8;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330.7300000000001" y="176" as="sourcePoint" />
+            <mxPoint x="463.31" y="294" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-344" connectable="0" parent="ACANUbbwVopmbbHR37aV-343" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" value="GE0/2" vertex="1">
+          <mxGeometry relative="1" x="-0.6994" y="3" as="geometry">
+            <mxPoint x="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-345" connectable="0" parent="ACANUbbwVopmbbHR37aV-343" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" value="GE0/1" vertex="1">
+          <mxGeometry relative="1" x="0.5998" as="geometry">
+            <mxPoint x="19" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-346" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" value="Juniper SRX 345" vertex="1">
+          <mxGeometry height="30" width="107.29" x="413.73" y="382" as="geometry" />
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-347" edge="1" parent="1" source="ACANUbbwVopmbbHR37aV-408" style="edgeStyle=none;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=none;endFill=0;endSize=8;entryX=0.973;entryY=0.502;entryDx=0;entryDy=0;entryPerimeter=0;" target="ACANUbbwVopmbbHR37aV-340">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125.30999999999999" y="54" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-348" connectable="0" parent="ACANUbbwVopmbbHR37aV-347" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" value="GE0/0" vertex="1">
+          <mxGeometry relative="1" x="0.7887" y="-4" as="geometry">
+            <mxPoint x="12" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-349" edge="1" parent="1" source="ACANUbbwVopmbbHR37aV-383" style="edgeStyle=none;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=none;endFill=0;endSize=8;exitX=0.125;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" target="ACANUbbwVopmbbHR37aV-408">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250.73000000000008" y="158.61389337641356" as="sourcePoint" />
+            <mxPoint x="179.31" y="124" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-350" connectable="0" parent="ACANUbbwVopmbbHR37aV-349" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" value="Eth1/49" vertex="1">
+          <mxGeometry relative="1" x="-0.3784" y="3" as="geometry">
+            <mxPoint x="13" y="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-351" connectable="0" parent="ACANUbbwVopmbbHR37aV-349" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Eth1/49" vertex="1">
+          <mxGeometry relative="1" x="0.7155" as="geometry">
+            <mxPoint x="4" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-352" edge="1" parent="1" source="ACANUbbwVopmbbHR37aV-339" style="edgeStyle=none;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.88;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=none;endFill=0;endSize=8;" target="ACANUbbwVopmbbHR37aV-329">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-353" connectable="0" parent="ACANUbbwVopmbbHR37aV-352" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" value="Nutanix VLAN 2016" vertex="1">
+          <mxGeometry relative="1" x="-0.0264" y="2" as="geometry">
+            <mxPoint x="8" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-354" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" value="Cisco ISR4331-C" vertex="1">
+          <mxGeometry height="30" width="107.29" x="727.5" y="574" as="geometry" />
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-355" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" value="Cisco 3750X-A" vertex="1">
+          <mxGeometry height="30" width="107.29" x="633.86" y="704" as="geometry" />
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-356" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" value="Cisco ISR4331-D" vertex="1">
+          <mxGeometry height="30" width="107.29" x="505.31" y="574" as="geometry" />
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-357" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" value="HP/Aruba 2920-48G" vertex="1">
+          <mxGeometry height="30" width="119.71" x="57.22999999999998" y="754" as="geometry" />
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-358" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" value="Cisco 3172TQ" vertex="1">
+          <mxGeometry height="30" width="107.29" x="485.31" y="212" as="geometry" />
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-359" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" value="Cisco ISR4331-E" vertex="1">
+          <mxGeometry height="30" width="107.29" x="142.95999999999998" y="561" as="geometry" />
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-360" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" value="Cisco ISR4331-B" vertex="1">
+          <mxGeometry height="30" width="107.29" x="63.44000000000001" y="344" as="geometry" />
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-361" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;The physical network topology shown above highlights key aspects of the configured devices, including:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Device Name&lt;/li&gt;&lt;li&gt;Ethernet and Serial Connections&lt;/li&gt;&lt;li&gt;Fiber connections and Nutanix VLANs&lt;/li&gt;&lt;/ul&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Additionally, the Cisco 2901-A Term Server connected serially to each configured device&#39;s serial port in via 2 ASYNC-16 module which was excluded from the diagram for brevity.&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="270" x="305.42" y="764" as="geometry" />
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-362" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" value="Cisco 2901-A Term Server" vertex="1">
+          <mxGeometry height="30" width="107.29" y="212" as="geometry" />
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-363" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" value="C345.G16.TFTPServer" vertex="1">
+          <mxGeometry height="30" width="115.99" x="716.8499999999999" y="76" as="geometry" />
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-364" edge="1" parent="1" source="ACANUbbwVopmbbHR37aV-330" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.099;entryY=0.507;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="ACANUbbwVopmbbHR37aV-333">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="545.31" y="339" />
+              <mxPoint x="545.31" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-365" connectable="0" parent="ACANUbbwVopmbbHR37aV-364" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="EHWIC 0 &amp;amp; 1" vertex="1">
+          <mxGeometry relative="1" x="-0.4103" y="5" as="geometry">
+            <mxPoint x="54" y="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-366" connectable="0" parent="ACANUbbwVopmbbHR37aV-364" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Link 9 &amp;amp; 10" vertex="1">
+          <mxGeometry relative="1" x="-0.8085" y="-3" as="geometry">
+            <mxPoint x="9" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-367" connectable="0" parent="ACANUbbwVopmbbHR37aV-364" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Fiber Link&amp;nbsp;&lt;div&gt;Aggregation&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.4495" y="2" as="geometry">
+            <mxPoint x="31" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-368" edge="1" parent="1" source="ACANUbbwVopmbbHR37aV-333" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.645;entryY=0.142;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0.113;exitY=0.726;exitDx=0;exitDy=0;exitPerimeter=0;" target="ACANUbbwVopmbbHR37aV-331">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="646.5" y="434" />
+              <mxPoint x="577.5" y="434" />
+              <mxPoint x="577.5" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-369" connectable="0" parent="ACANUbbwVopmbbHR37aV-368" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="G0/1" vertex="1">
+          <mxGeometry relative="1" x="-0.4477" y="3" as="geometry">
+            <mxPoint x="2" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-370" connectable="0" parent="ACANUbbwVopmbbHR37aV-368" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="G0/0" vertex="1">
+          <mxGeometry relative="1" x="0.725" y="1" as="geometry">
+            <mxPoint x="-17" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-371" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.565;entryY=0.085;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="ACANUbbwVopmbbHR37aV-332">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="727.5" y="414" />
+              <mxPoint x="727.5" y="434" />
+              <mxPoint x="787.5" y="434" />
+            </Array>
+            <mxPoint x="727.5" y="414" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-372" connectable="0" parent="ACANUbbwVopmbbHR37aV-371" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="G0/0" vertex="1">
+          <mxGeometry relative="1" x="-0.3324" y="1" as="geometry">
+            <mxPoint x="-6" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-373" connectable="0" parent="ACANUbbwVopmbbHR37aV-371" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="G0/1" vertex="1">
+          <mxGeometry relative="1" x="0.76" y="-1" as="geometry">
+            <mxPoint x="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-374" edge="1" parent="1" source="ACANUbbwVopmbbHR37aV-331" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0.933;exitY=0.732;exitDx=0;exitDy=0;exitPerimeter=0;" target="ACANUbbwVopmbbHR37aV-337">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="657.5" y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-375" connectable="0" parent="ACANUbbwVopmbbHR37aV-374" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="G0/2" vertex="1">
+          <mxGeometry relative="1" x="-0.7686" as="geometry">
+            <mxPoint x="-3" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-376" connectable="0" parent="ACANUbbwVopmbbHR37aV-374" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="G0/2" vertex="1">
+          <mxGeometry relative="1" x="0.8343" y="-1" as="geometry">
+            <mxPoint x="-14" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-377" edge="1" parent="1" source="ACANUbbwVopmbbHR37aV-332" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0.143;exitY=0.728;exitDx=0;exitDy=0;exitPerimeter=0;" target="ACANUbbwVopmbbHR37aV-337">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="697.5" y="554" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-378" connectable="0" parent="ACANUbbwVopmbbHR37aV-377" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="G0/0" vertex="1">
+          <mxGeometry relative="1" x="-0.7231" y="1" as="geometry">
+            <mxPoint y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-379" connectable="0" parent="ACANUbbwVopmbbHR37aV-377" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="G0/1" vertex="1">
+          <mxGeometry relative="1" x="0.8602" as="geometry">
+            <mxPoint x="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-380" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.124;entryY=0.322;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0.924;exitY=0.299;exitDx=0;exitDy=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="603.5" y="508" />
+              <mxPoint x="669.5" y="508" />
+            </Array>
+            <mxPoint x="603.6580800000004" y="505.8899999999999" as="sourcePoint" />
+            <mxPoint x="740.5720800000001" y="508.4200000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-381" connectable="0" parent="ACANUbbwVopmbbHR37aV-380" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="G0/1" vertex="1">
+          <mxGeometry relative="1" x="-0.7606" y="-1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-382" connectable="0" parent="ACANUbbwVopmbbHR37aV-380" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="G0/2" vertex="1">
+          <mxGeometry relative="1" x="0.7317" y="-1" as="geometry">
+            <mxPoint x="1" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-383" parent="1" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#000000;strokeColor=#666666;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.l3_switch;fontColor=#333333;fillStyle=solid;" value="" vertex="1">
+          <mxGeometry height="88" width="100.93" x="412.6" y="154" as="geometry" />
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-384" parent="1" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#000000;strokeColor=#666666;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.l3_switch;fontColor=#333333;fillStyle=solid;" value="" vertex="1">
+          <mxGeometry height="88" width="100.93" x="325.30999999999995" y="496" as="geometry" />
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-385" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" value="Cisco 3750X-B" vertex="1">
+          <mxGeometry height="30" width="107.29" x="351.94999999999993" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-386" edge="1" parent="1" source="ACANUbbwVopmbbHR37aV-330" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.985;entryY=0.457;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0.054;exitY=0.485;exitDx=0;exitDy=0;exitPerimeter=0;" target="ACANUbbwVopmbbHR37aV-334">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-387" connectable="0" parent="ACANUbbwVopmbbHR37aV-386" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="G0/0" vertex="1">
+          <mxGeometry relative="1" x="0.8311" y="2" as="geometry">
+            <mxPoint x="4" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-388" connectable="0" parent="ACANUbbwVopmbbHR37aV-386" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="G0/2" vertex="1">
+          <mxGeometry relative="1" x="-0.7819" as="geometry">
+            <mxPoint x="-1" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-389" edge="1" parent="1" source="ACANUbbwVopmbbHR37aV-334" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.977;entryY=0.458;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0.514;exitY=0.081;exitDx=0;exitDy=0;exitPerimeter=0;" target="ACANUbbwVopmbbHR37aV-336">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="294.31" y="296" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-390" connectable="0" parent="ACANUbbwVopmbbHR37aV-389" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="G0/0" vertex="1">
+          <mxGeometry relative="1" x="0.7063" y="1" as="geometry">
+            <mxPoint x="-8" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-391" connectable="0" parent="ACANUbbwVopmbbHR37aV-389" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="G0/2" vertex="1">
+          <mxGeometry relative="1" x="-0.7475" y="-1" as="geometry">
+            <mxPoint x="-17" y="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-392" edge="1" parent="1" source="ACANUbbwVopmbbHR37aV-334" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.524;entryY=0.098;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0.09;exitY=0.523;exitDx=0;exitDy=0;exitPerimeter=0;" target="ACANUbbwVopmbbHR37aV-335">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="195.31" y="401" />
+              <mxPoint x="195.31" y="495" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-393" connectable="0" parent="ACANUbbwVopmbbHR37aV-392" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="G0/1" vertex="1">
+          <mxGeometry relative="1" x="-0.7447" y="-2" as="geometry">
+            <mxPoint y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-394" connectable="0" parent="ACANUbbwVopmbbHR37aV-392" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="G0/0" vertex="1">
+          <mxGeometry relative="1" x="0.7589" y="-1" as="geometry">
+            <mxPoint x="-16" y="-36" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-395" edge="1" parent="1" source="ACANUbbwVopmbbHR37aV-334" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0.907;exitY=0.723;exitDx=0;exitDy=0;exitPerimeter=0;" target="ACANUbbwVopmbbHR37aV-384">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="375.31" y="423" />
+              <mxPoint x="375.31" y="496" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-396" connectable="0" parent="ACANUbbwVopmbbHR37aV-395" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="G1/0" vertex="1">
+          <mxGeometry relative="1" x="-0.5814" y="-1" as="geometry">
+            <mxPoint x="-3" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-398" connectable="0" parent="ACANUbbwVopmbbHR37aV-395" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="G0/2" vertex="1">
+          <mxGeometry relative="1" x="0.7969" as="geometry">
+            <mxPoint x="-15" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-399" edge="1" parent="1" source="ACANUbbwVopmbbHR37aV-336" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0.123;exitY=0.502;exitDx=0;exitDy=0;exitPerimeter=0;" target="ACANUbbwVopmbbHR37aV-338">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="45.30999999999999" y="301" />
+              <mxPoint x="45.30999999999999" y="714" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-400" connectable="0" parent="ACANUbbwVopmbbHR37aV-399" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="G0/1" vertex="1">
+          <mxGeometry relative="1" x="-0.8952" as="geometry">
+            <mxPoint x="1" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-401" connectable="0" parent="ACANUbbwVopmbbHR37aV-399" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="G0/3" vertex="1">
+          <mxGeometry relative="1" x="0.9381" y="1" as="geometry">
+            <mxPoint x="-1" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-402" edge="1" parent="1" source="ACANUbbwVopmbbHR37aV-335" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0.126;exitY=0.495;exitDx=0;exitDy=0;exitPerimeter=0;" target="ACANUbbwVopmbbHR37aV-338">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="117.30999999999999" y="513" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-403" connectable="0" parent="ACANUbbwVopmbbHR37aV-402" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="G0/1" vertex="1">
+          <mxGeometry relative="1" x="-0.7717" y="1" as="geometry">
+            <mxPoint y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-404" connectable="0" parent="ACANUbbwVopmbbHR37aV-402" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="G0/2" vertex="1">
+          <mxGeometry relative="1" x="0.8705" y="-1" as="geometry">
+            <mxPoint x="16" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-405" edge="1" parent="1" source="ACANUbbwVopmbbHR37aV-384" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="ACANUbbwVopmbbHR37aV-338">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="285.31" y="540" />
+              <mxPoint x="285.31" y="714" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-406" connectable="0" parent="ACANUbbwVopmbbHR37aV-405" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="G0/1" vertex="1">
+          <mxGeometry relative="1" x="-0.9061" y="-1" as="geometry">
+            <mxPoint x="2" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-407" connectable="0" parent="ACANUbbwVopmbbHR37aV-405" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="G0/1" vertex="1">
+          <mxGeometry relative="1" x="0.9013" y="2" as="geometry">
+            <mxPoint x="-2" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-408" parent="1" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#000000;strokeColor=#666666;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.l3_switch;fontColor=#333333;fillStyle=solid;" value="Juniper WAN Uplink 1" vertex="1">
+          <mxGeometry height="72" width="94.1" x="195.31" y="83" as="geometry" />
+        </mxCell>
+        <mxCell id="ACANUbbwVopmbbHR37aV-409" edge="1" parent="1" source="ACANUbbwVopmbbHR37aV-408" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="ACANUbbwVopmbbHR37aV-329">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="242.31" y="42" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

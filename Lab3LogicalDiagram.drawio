@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.0">
   <diagram name="Page-1" id="L7DuuKiDhLwAfjiwVFyy">
-    <mxGraphModel dx="446" dy="911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="793" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,31 +94,32 @@
         <mxCell id="ACANUbbwVopmbbHR37aV-584" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" value="Group16ISR4331B&lt;div&gt;192.168.16.2&lt;/div&gt;&lt;div&gt;&lt;/div&gt;192.168.26.2&lt;div&gt;192.168.36.2&lt;/div&gt;&lt;div&gt;&lt;/div&gt;192.168.46.2" vertex="1">
           <mxGeometry height="30" width="107.29" x="77.45000000000002" y="393" as="geometry" />
         </mxCell>
-        <mxCell id="ACANUbbwVopmbbHR37aV-585" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;The physical network topology shown above highlights key aspects of the configured devices, including:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Device Name&lt;/li&gt;&lt;li&gt;Ethernet and Serial Connections&lt;/li&gt;&lt;li&gt;Fiber connections and Nutanix VLANs&lt;/li&gt;&lt;/ul&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Additionally, the Cisco 2901-A Term Server connected serially to each configured device&#39;s serial port in via 2 ASYNC-16 module which was excluded from the diagram for brevity.&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="230" width="270" x="319.43" y="784" as="geometry" />
-        </mxCell>
         <mxCell id="ACANUbbwVopmbbHR37aV-586" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" value="Group16TermServer&lt;br&gt;&lt;div&gt;44.36.16.2/24&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="155.31" x="20" y="203" as="geometry" />
         </mxCell>
         <mxCell id="ACANUbbwVopmbbHR37aV-587" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" value="group16-TFTP" vertex="1">
           <mxGeometry height="30" width="115.99" x="717.86" y="96" as="geometry" />
         </mxCell>
-        <mxCell id="ACANUbbwVopmbbHR37aV-588" edge="1" parent="1" source="ACANUbbwVopmbbHR37aV-560" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.099;entryY=0.507;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="ACANUbbwVopmbbHR37aV-563">
+        <mxCell id="ACANUbbwVopmbbHR37aV-588" edge="1" parent="1" source="ACANUbbwVopmbbHR37aV-560" style="shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.513;entryY=0.058;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="ACANUbbwVopmbbHR37aV-563">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="559.32" y="359" />
-              <mxPoint x="559.32" y="420" />
+              <mxPoint x="703" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ACANUbbwVopmbbHR37aV-589" connectable="0" parent="ACANUbbwVopmbbHR37aV-588" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="10.16.16.13/30" vertex="1">
           <mxGeometry relative="1" x="-0.4103" y="5" as="geometry">
-            <mxPoint x="50" y="19" as="offset" />
+            <mxPoint x="149" y="27" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ACANUbbwVopmbbHR37aV-635" connectable="0" parent="ACANUbbwVopmbbHR37aV-588" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="10.16.16.14/30" vertex="1">
           <mxGeometry relative="1" x="-0.8579" as="geometry">
-            <mxPoint x="24" y="-10" as="offset" />
+            <mxPoint x="23" y="17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOoKk0994VdbTXqO4fU7-2" connectable="0" parent="ACANUbbwVopmbbHR37aV-588" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Fiber Link&amp;nbsp;&lt;div&gt;Aggregation&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1527" as="geometry">
+            <mxPoint x="50" y="-39" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ACANUbbwVopmbbHR37aV-592" edge="1" parent="1" source="ACANUbbwVopmbbHR37aV-563" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.645;entryY=0.142;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0.113;exitY=0.726;exitDx=0;exitDy=0;exitPerimeter=0;" target="ACANUbbwVopmbbHR37aV-561">
@@ -312,6 +313,9 @@
         </mxCell>
         <mxCell id="ACANUbbwVopmbbHR37aV-644" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" value="" vertex="1">
           <mxGeometry height="62" width="67.39" x="620" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JOoKk0994VdbTXqO4fU7-1" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;The logical topology shown above highlights key aspects of the configured network, including:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;Device Hostnames&lt;/li&gt;&lt;li&gt;Link Aggregation Connections using Fiber&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;IP address connections between devices&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Loopback interfaces configured emulating devices on VLAN networks&lt;/li&gt;&lt;li&gt;DHCP was additionally configured on Juniper to ensure devices connected to the network could automatically receive a VLAN associated IP address&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="220" width="300.68" x="275" y="820" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

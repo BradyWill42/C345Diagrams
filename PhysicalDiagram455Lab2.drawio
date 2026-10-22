@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Lab 2 VPNs" id="yiDC_7Tj1Zl-vMvmx33D">
-    <mxGraphModel dx="519" dy="790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="793" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,7 +55,7 @@
         <mxCell id="BfXsUj3qqEJB8LUMSRFX-70" parent="1" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;strokeWidth=2;fontSize=11;verticalLabelPosition=bottom;verticalAlign=top;labelPosition=center;align=center;shape=mxgraph.networks.pc;" value="&lt;b&gt;Windows11_Remote_pfSense&lt;/b&gt;&lt;br&gt;Windows 11" vertex="1">
           <mxGeometry height="45" width="64" x="931" y="733" as="geometry" />
         </mxCell>
-        <mxCell id="BfXsUj3qqEJB8LUMSRFX-71" parent="1" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;strokeWidth=2;fontSize=11;verticalLabelPosition=bottom;verticalAlign=top;labelPosition=center;align=center;shape=mxgraph.networks.web_server;" value="&lt;b&gt;pfSense.DMZ&lt;/b&gt;&lt;br&gt;CentOS HTTP/FTP" vertex="1">
+        <mxCell id="BfXsUj3qqEJB8LUMSRFX-71" parent="1" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;strokeWidth=2;fontSize=11;verticalLabelPosition=bottom;verticalAlign=top;labelPosition=center;align=center;shape=mxgraph.networks.web_server;" value="&lt;b&gt;pfSense.DMZ&lt;/b&gt;&lt;br&gt;AlmaLinux HTTP/FTP" vertex="1">
           <mxGeometry height="52" width="50" x="1108" y="733.5" as="geometry" />
         </mxCell>
         <mxCell id="BfXsUj3qqEJB8LUMSRFX-72" parent="1" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;strokeWidth=2;fontSize=11;verticalLabelPosition=bottom;verticalAlign=top;labelPosition=center;align=center;shape=mxgraph.networks.server;" value="&lt;b&gt;Private.A&lt;/b&gt;&lt;br&gt;Win Server 2025 (DC)" vertex="1">
@@ -64,7 +64,7 @@
         <mxCell id="BfXsUj3qqEJB8LUMSRFX-73" parent="1" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;strokeWidth=2;fontSize=11;verticalLabelPosition=bottom;verticalAlign=top;labelPosition=center;align=center;shape=mxgraph.networks.pc;" value="&lt;b&gt;Windows11_HQ_pfSense&lt;/b&gt;&lt;br&gt;Windows 11" vertex="1">
           <mxGeometry height="45" width="64" x="1388" y="743.5" as="geometry" />
         </mxCell>
-        <mxCell id="BfXsUj3qqEJB8LUMSRFX-74" parent="1" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;strokeWidth=2;fontSize=11;verticalLabelPosition=bottom;verticalAlign=top;labelPosition=center;align=center;shape=mxgraph.networks.web_server;" value="&lt;b&gt;VyOS.DMZ&lt;/b&gt;&lt;br&gt;CentOS HTTP/FTP/TFTP" vertex="1">
+        <mxCell id="BfXsUj3qqEJB8LUMSRFX-74" parent="1" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;strokeWidth=2;fontSize=11;verticalLabelPosition=bottom;verticalAlign=top;labelPosition=center;align=center;shape=mxgraph.networks.web_server;" value="&lt;b&gt;VyOS.DMZ&lt;/b&gt;&lt;br&gt;AlmaLinux HTTP/FTP/TFTP" vertex="1">
           <mxGeometry height="52" width="50" x="1529" y="737.5" as="geometry" />
         </mxCell>
         <mxCell id="BfXsUj3qqEJB8LUMSRFX-75" parent="1" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;strokeWidth=2;fontSize=11;verticalLabelPosition=bottom;verticalAlign=top;labelPosition=center;align=center;shape=mxgraph.networks.server;" value="&lt;b&gt;Private.B&lt;/b&gt;&lt;br&gt;Win Server 2022 (DC)" vertex="1">

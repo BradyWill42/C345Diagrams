@@ -8,34 +8,34 @@
           <mxGeometry height="200" width="380" x="690" y="160" as="geometry" />
         </mxCell>
         <mxCell id="PPYjKkqkuGg0Nkx9rJvp-30" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="PfSense 2&lt;div&gt;192.168.4.0/24&lt;/div&gt;&lt;div&gt;44.104.0.0/16&lt;/div&gt;" vertex="1">
-          <mxGeometry height="180" width="240" x="120" y="460" as="geometry" />
+          <mxGeometry height="180" width="240" x="200" y="460" as="geometry" />
         </mxCell>
         <mxCell id="PPYjKkqkuGg0Nkx9rJvp-31" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="PfSense&lt;div&gt;192.168.3.0/24&lt;/div&gt;&lt;div&gt;192.168.1.0/24&lt;/div&gt;&lt;div&gt;44.104.0.0/16&lt;/div&gt;" vertex="1">
-          <mxGeometry height="200" width="260" x="500" y="440" as="geometry" />
+          <mxGeometry height="200" width="260" x="570" y="460" as="geometry" />
         </mxCell>
         <mxCell id="PPYjKkqkuGg0Nkx9rJvp-32" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="VyOS&lt;div&gt;192.168.2.0/24&lt;/div&gt;&lt;div&gt;172.18.13.0/24&lt;/div&gt;&lt;div&gt;44.104.0.0/16&lt;/div&gt;" vertex="1">
-          <mxGeometry height="210" width="240" x="1000" y="440" as="geometry" />
+          <mxGeometry height="210" width="240" x="900" y="445" as="geometry" />
         </mxCell>
         <mxCell id="PPYjKkqkuGg0Nkx9rJvp-33" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="VyOS 2&lt;div&gt;192.168.6.0/24&lt;/div&gt;&lt;div&gt;44.104.0.0/16&lt;/div&gt;" vertex="1">
           <mxGeometry height="180" width="240" x="1380" y="440" as="geometry" />
         </mxCell>
         <mxCell id="PPYjKkqkuGg0Nkx9rJvp-34" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="DMZ-A&lt;div&gt;192.168.1.0/24&lt;/div&gt;" vertex="1">
-          <mxGeometry height="160" width="200" x="620" y="720" as="geometry" />
+          <mxGeometry height="160" width="200" x="670" y="690" as="geometry" />
         </mxCell>
         <mxCell id="PPYjKkqkuGg0Nkx9rJvp-35" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="DMZ-B&lt;div&gt;172.18.13.0/24&lt;/div&gt;" vertex="1">
-          <mxGeometry height="160" width="200" x="940" y="720" as="geometry" />
+          <mxGeometry height="160" width="200" x="850" y="690" as="geometry" />
         </mxCell>
         <mxCell id="PPYjKkqkuGg0Nkx9rJvp-36" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="Remote-A&lt;div&gt;192.168.4.0/24&lt;/div&gt;" vertex="1">
-          <mxGeometry height="200" width="260" x="120" y="720" as="geometry" />
+          <mxGeometry height="200" width="260" x="230" y="710" as="geometry" />
         </mxCell>
         <mxCell id="PPYjKkqkuGg0Nkx9rJvp-37" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="Remote-B&lt;div&gt;192.168.6.0/24&lt;/div&gt;" vertex="1">
           <mxGeometry height="200" width="260" x="1360" y="720" as="geometry" />
         </mxCell>
         <mxCell id="PPYjKkqkuGg0Nkx9rJvp-38" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="Private-A&lt;div&gt;192.168.2.0/24&lt;/div&gt;" vertex="1">
-          <mxGeometry height="260" width="310" x="400" y="960" as="geometry" />
+          <mxGeometry height="260" width="310" x="470" y="880" as="geometry" />
         </mxCell>
         <mxCell id="PPYjKkqkuGg0Nkx9rJvp-39" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="Private-B&lt;div&gt;192.168.3.0/24&lt;/div&gt;" vertex="1">
-          <mxGeometry height="260" width="310" x="1050" y="960" as="geometry" />
+          <mxGeometry height="260" width="310" x="900" y="880" as="geometry" />
         </mxCell>
         <mxCell id="PPYjKkqkuGg0Nkx9rJvp-40" edge="1" parent="1" source="PPYjKkqkuGg0Nkx9rJvp-29" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.16;exitY=0.55;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.88;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;strokeWidth=2;" target="PPYjKkqkuGg0Nkx9rJvp-30">
           <mxGeometry relative="1" as="geometry" />
@@ -78,7 +78,7 @@
         <mxCell id="PPYjKkqkuGg0Nkx9rJvp-52" edge="1" parent="1" source="PPYjKkqkuGg0Nkx9rJvp-32" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;strokeWidth=3;strokeColor=#6A00FF;fontColor=#6A00FF;fontStyle=1;labelBackgroundColor=default;" target="PPYjKkqkuGg0Nkx9rJvp-33" value="WireGuard S2S">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PPYjKkqkuGg0Nkx9rJvp-53" edge="1" parent="1" source="PPYjKkqkuGg0Nkx9rJvp-29" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.07;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;strokeWidth=3;strokeColor=#6A00FF;fontColor=#6A00FF;fontStyle=1;labelBackgroundColor=default;dashed=1;dashPattern=8 4;" target="PPYjKkqkuGg0Nkx9rJvp-30" value="WireGuard Client">
+        <mxCell id="PPYjKkqkuGg0Nkx9rJvp-53" edge="1" parent="1" source="PPYjKkqkuGg0Nkx9rJvp-29" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.07;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.88;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;strokeWidth=3;strokeColor=#6A00FF;fontColor=#6A00FF;fontStyle=1;labelBackgroundColor=default;dashed=1;dashPattern=8 4;" target="PPYjKkqkuGg0Nkx9rJvp-36" value="WireGuard Client">
           <mxGeometry relative="1" x="-0.0003" as="geometry">
             <mxPoint x="28" y="58" as="offset" />
             <Array as="points">
@@ -86,14 +86,30 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PPYjKkqkuGg0Nkx9rJvp-54" edge="1" parent="1" source="PPYjKkqkuGg0Nkx9rJvp-29" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.13;exitY=0.77;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;strokeWidth=3;strokeColor=#FA6800;fontColor=#FA6800;fontStyle=1;labelBackgroundColor=default;dashed=1;dashPattern=8 4;" target="PPYjKkqkuGg0Nkx9rJvp-31" value="OpenVPN&lt;br&gt;Client">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PPYjKkqkuGg0Nkx9rJvp-54" edge="1" parent="1" source="PPYjKkqkuGg0Nkx9rJvp-29" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.13;exitY=0.77;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;strokeWidth=3;strokeColor=#FA6800;fontColor=#FA6800;fontStyle=1;labelBackgroundColor=default;dashed=1;dashPattern=8 4;curveGeometry=1;" target="PPYjKkqkuGg0Nkx9rJvp-38" value="OpenVPN&lt;br&gt;Client">
+          <mxGeometry relative="1" x="0.3444" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="580" y="314" />
+              <mxPoint x="580" y="470" />
+              <mxPoint x="550" y="470" />
+              <mxPoint x="550" y="906" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="PPYjKkqkuGg0Nkx9rJvp-55" edge="1" parent="1" source="PPYjKkqkuGg0Nkx9rJvp-29" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.625;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;strokeWidth=3;strokeColor=#008A00;fontColor=#008A00;fontStyle=1;labelBackgroundColor=default;dashed=1;dashPattern=8 4;" target="PPYjKkqkuGg0Nkx9rJvp-32" value="L2TP/IPsec&lt;br&gt;Client">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PPYjKkqkuGg0Nkx9rJvp-55" edge="1" parent="1" source="PPYjKkqkuGg0Nkx9rJvp-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.88;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;strokeWidth=3;strokeColor=#008A00;fontColor=#008A00;fontStyle=1;labelBackgroundColor=default;dashed=1;dashPattern=8 4;curved=1;curveGeometry=1;" target="PPYjKkqkuGg0Nkx9rJvp-39" value="L2TP/IPsec&lt;br&gt;Client">
+          <mxGeometry relative="1" x="0.2913" y="1" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1054.8" y="370" />
+              <mxPoint x="1140" y="370" />
+              <mxPoint x="1140" y="620" />
+              <mxPoint x="1172.8" y="620" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="PPYjKkqkuGg0Nkx9rJvp-56" edge="1" parent="1" source="PPYjKkqkuGg0Nkx9rJvp-29" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.88;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.625;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;strokeWidth=3;strokeColor=#0050EF;fontColor=#0050EF;fontStyle=1;labelBackgroundColor=default;dashed=1;dashPattern=8 4;" target="PPYjKkqkuGg0Nkx9rJvp-33" value="IPsec Client">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="PPYjKkqkuGg0Nkx9rJvp-56" edge="1" parent="1" source="PPYjKkqkuGg0Nkx9rJvp-29" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.88;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;strokeWidth=3;strokeColor=#0050EF;fontColor=#0050EF;fontStyle=1;labelBackgroundColor=default;dashed=1;dashPattern=8 4;" target="PPYjKkqkuGg0Nkx9rJvp-37" value="IPsec Client">
+          <mxGeometry relative="1" x="-0.4271" y="-49.28" as="geometry">
             <mxPoint x="-32" y="60" as="offset" />
             <Array as="points">
               <mxPoint x="1340" y="220" />
